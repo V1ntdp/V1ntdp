@@ -5,10 +5,7 @@
 <div align="center">
     <img width="49%" height="195px"
         src="https://github-readme-stats.vercel.app/api?username=V1ntdp&show_icons=true&count_private=true&hide_border=true&title_color=000000fa&icon_color=000000fa&text_color=000000fa&bg_color=6F00FF"
-        alt="V1ntdp Git Hub status" />
-    <img width="41%" height="195px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ntdp&layout=compact&hide_border=true&title_color=000000fa&text_color=000000fa&bg_color=6F00FF" />
-</div>
+        alt="V1ntdp Git Hub status" /></div>
 
 
 
