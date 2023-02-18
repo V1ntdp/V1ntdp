@@ -8,8 +8,7 @@
         alt="V1ntdp Git Hub status" /></div>
 
 
-
-### Habilidades principais:
+### Principais Habili:
 ![HTML](https://img.shields.io/badge/-HTML-6F00FF?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-6F00FF?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
