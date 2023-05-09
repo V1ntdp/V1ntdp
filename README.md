@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6F00FF&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F00FF&size=40&center=true&vCenter=true&width=1000&lines=OlÁ,+MEU+NOME+É+VINICIUS+ALVES+DA+ROCHA;TENHO+19+ANOS;MORO+EM+SÃO+PAULO,+BR;SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg)
 <div align="center">
     <img width="49%" height="195px"
